@@ -1,0 +1,14 @@
+jupyterlab
+torch
+torchvision
+torch-geometric
+torch-scatter
+torch-sparse
+torch-cluster
+torch-spline-conv
+geomloss[full]
+geopy
+matplotlib
+pandas
+numpy
+tensorboard
