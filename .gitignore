@@ -252,6 +252,5 @@ dkms.conf
 
 # Custom ignore patterns
 trained/
-*.csv
 .idea/
 .DS_Store
